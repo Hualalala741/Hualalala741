@@ -23,7 +23,7 @@
 
 ## 🌱 Currently Building
 
-- **[Echo Day](https://echo-day.vercel.app)** — An AI-powered diary app where users upload photos, talk with AI via voice, and get auto-generated diary entries, mood analysis, and music recommendations.
+- **[Echo Day](https://echo-day-seven.vercel.app)** — An AI-powered diary app where users upload photos, talk with AI via voice, and get auto-generated diary entries, mood analysis, and music recommendations.
 
 ## 📝 Publications
 
